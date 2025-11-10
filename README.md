@@ -1,7 +1,5 @@
-# PDF RAG Chat Application
-#Build as an assessment for PreDusk Technologies.
-#resume - https://drive.google.com/file/d/1hyJG00rVroPCRyzoJRL-HW5oir6od3ht/view?usp=sharing
-A Flask-based PDF Retrieval-Augmented Generation (RAG) chat application that allows users to upload PDFs and ask questions about their content. Built as an assignment showcasing modern RAG architecture.
+# PDF RAG Chat Application - Build for exploration (completely api based)
+A Flask-based PDF Retrieval-Augmented Generation (RAG) chat application that allows users to upload PDFs and ask questions about their content. Built to showcase modern RAG architecture.
 
 ## 🚀 Features
 
